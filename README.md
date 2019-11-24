@@ -4,7 +4,7 @@
 
 An Angular Application - Porject 3
 
-Come and create yours on https://hugoboxfr.github.io/bim/ 
+Come and create yours on https://bim.now.sh/ 
 
 Made in Angular 8 / TypeScript / Javascript Vanilla / HTML5 & CSS3
 
